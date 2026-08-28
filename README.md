@@ -129,9 +129,9 @@ What I optimize for, in order: **maintainable code, clean architecture, good dat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahan2323&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4D8FFF&icon_color=0047AB&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats"/>
+<img src="https://github-readme-stats-liart-three-33.vercel.app/api?username=sahan2323&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4D8FFF&icon_color=0047AB&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan2323&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4D8FFF&text_color=c9d1d9" alt="Top languages"/>
+<img src="https://github-readme-stats-liart-three-33.vercel.app/api/top-langs/?username=sahan2323&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=4D8FFF" alt="Top languages"/>
 
 <br/>
 
