@@ -1,47 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0047AB&height=220&section=header&text=Sahan%20Vimukthi&fontColor=FFFFFF&fontSize=46&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Sahan Vimukthi — Full-Stack Developer"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=0047AB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Product;Building+products+%C2%B7+systems+%C2%B7+experiences)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sahan2323&color=0047AB&style=flat-square&label=PROFILE+VIEWS)
+[![Typing](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=4D8FFF&center=true&vCenter=true&width=680&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Product;I+build+the+whole+path%2C+not+just+the+screen;Building+products+%C2%B7+systems+%C2%B7+experiences)](https://github.com/sahan2323)
 
 </div>
 
-```text
-$ whoami
-
-sahan@github ~
-> Full-Stack Developer
-> Building products · systems · experiences
-> Frontend → Backend → Database → Integration → Product
-```
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0047AB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0047AB?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0047AB?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0047AB?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-0047AB?style=flat-square&logo=stripe&logoColor=white)
+<img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami, role, active stack"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## About
 
 I like building things end-to-end. An interface isn't a product until it's talking to a real backend and a real database, so that's usually where my attention goes — full-stack business applications, admin dashboards, booking and payment flows, and the API work that ties a few systems together into something that actually functions.
 
-A lot of this runs through **oneCoreLab**, where I design and build commercial websites and internal tools — some of that work is in the projects below.
+A lot of this runs through **oneCoreLab**, where I design and build commercial websites and internal tools — some of that work is below.
 
 I'd rather have a small stack I actually reach for than a long list of things I've only opened the docs for once. What's below is what I build with.
 
----
+<div align="center">
+
+<img src="./assets/pipeline.svg" width="100%" alt="Request path: frontend, API layer, database, integration, product"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Currently Building
 
@@ -53,26 +42,15 @@ I'd rather have a small stack I actually reach for than a long list of things I'
 | `04` | Admin dashboards & internal tools |
 | `05` | Interactive web experiences |
 
-```text
-┌──────────────────────────────────────────────┐
-│  DEVELOPMENT STACK                            │
-│                                                │
-│  Frontend       React / Next.js               │
-│  Backend        Node.js / Express             │
-│  Data           PostgreSQL / MongoDB          │
-│  Integrations   Stripe / REST APIs            │
-│  Deployment     Vercel                        │
-│  Status         BUILDING                      │
-└──────────────────────────────────────────────┘
-```
-
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Tech Stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,express,postgres,mongodb,tailwind,git,github,vscode,stripe&theme=dark)](https://skillicons.dev)
+<img src="./assets/stack.svg" width="100%" alt="Development stack readout"/>
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,express,postgres,mongodb,tailwind,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -85,7 +63,7 @@ I'd rather have a small stack I actually reach for than a long list of things I'
 | **Integrations** | Stripe · Third-Party APIs · QR Code Systems |
 | **Interactive / Motion** | GSAP · Spline |
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Engineering Approach
 
@@ -95,7 +73,7 @@ Idea → Requirements → Architecture → UI/UX → Implementation → Testing 
 
 What I optimize for, in order: **maintainable code, clean architecture, good database design, sensible API structure, performance, security, and a UI that doesn't get in the way.** I'm not running enterprise-scale systems — I'm building applications that need to hold up in production and stay easy to extend, and that's the bar I hold my own work to.
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Featured Projects
 
@@ -145,50 +123,35 @@ What I optimize for, in order: **maintainable code, clean architecture, good dat
 
 **Repository:** `[add repo link]` · **Live Demo:** `[add live link]`
 
----
-
-### `Project Name`
-
-> Short explanation of what the application does and the problem it solves.
-
-`Tech` `Tech` `Tech`
-
-**Focus:** Authentication · APIs · Database · Dashboard
-
-**Repository:** `[add repo link]` · **Live Demo:** `[add live link]`
-
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## GitHub Activity
 
 <div align="center">
 
-![Sahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahan2323&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0047AB&icon_color=0047AB&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=sahan2323&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4D8FFF&icon_color=0047AB&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahan2323&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0047AB&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan2323&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4D8FFF&text_color=c9d1d9" alt="Top languages"/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sahan2323&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)
+<br/>
 
-</div>
-
-<div align="center">
-
-<!-- Snake animation — appears after the one-time GitHub Action setup below -->
-<img src="https://raw.githubusercontent.com/sahan2323/sahan2323/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/sahan2323/sahan2323/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution graph"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Development Journey
 
-```text
-Learn → Build → Break → Understand → Improve → Ship
-```
+<div align="center">
+
+<img src="./assets/journey.svg" width="100%" alt="Learn, build, break, understand, improve, ship — repeating"/>
+
+</div>
 
 I'm not claiming years of professional depth I don't have — I'm building real applications, running into real problems, and getting better at solving them each time.
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Current Focus
 
@@ -200,16 +163,18 @@ I'm not claiming years of professional depth I don't have — I'm building real 
 - Modern React / Next.js patterns
 - Building applications that scale sensibly
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Let's Build Something
 
 If you're working on a product, platform, startup, or technical idea, let's talk.
 
-**LinkedIn:** [linkedin.com/in/sahan-vimukthi-hewa-gallage](https://www.linkedin.com/in/sahan-vimukthi-hewa-gallage-bb3a24239/)
-**Email:** [vimusahan23@gmail.com](mailto:vimusahan23@gmail.com)
-**GitHub:** [@sahan2323](https://github.com/sahan2323)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:0D1117&height=120&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-vimukthi-hewa-gallage-bb3a24239/)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimusahan23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0047AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahan2323)
 
 </div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
