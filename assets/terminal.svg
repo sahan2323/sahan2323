@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 272" width="1000" height="272" role="img">
+  <defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#161C24" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#4D8FFF" stop-opacity="0"/>
+    <stop offset="50%"  stop-color="#7FB2FF" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#4D8FFF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="edgeFade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#0D1117" stop-opacity="1"/>
+    <stop offset="12%"  stop-color="#0D1117" stop-opacity="0"/>
+    <stop offset="88%"  stop-color="#0D1117" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+  </linearGradient>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+<clipPath id="c0"><rect class="type" style="animation-delay:0.2s;--w:85px" x="40" y="60" width="85" height="26"/></clipPath><clipPath id="c1"><rect class="type" style="animation-delay:1.0s;--w:123px" x="40" y="84" width="123" height="26"/></clipPath><clipPath id="c2"><rect class="type" style="animation-delay:1.7s;--w:142px" x="40" y="108" width="142" height="26"/></clipPath><clipPath id="c3"><rect class="type" style="animation-delay:2.5s;--w:651px" x="40" y="132" width="651" height="26"/></clipPath><clipPath id="c4"><rect class="type" style="animation-delay:3.3s;--w:162px" x="40" y="156" width="162" height="26"/></clipPath><clipPath id="c5"><rect class="type" style="animation-delay:4.1s;--w:613px" x="40" y="180" width="613" height="26"/></clipPath><clipPath id="c6"><rect class="type" style="animation-delay:4.9s;--w:85px" x="40" y="204" width="85" height="26"/></clipPath></defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+
+    .type { animation: type 1.1s steps(28,end) both; }
+    @keyframes type { from { width: 0 } to { width: var(--w) } }
+    .fade { opacity: 1; animation: fadein .4s ease-out both; }
+    @keyframes fadein { from { opacity: 0 } to { opacity: 1 } }
+    .caret { animation: blink 1.05s steps(1,end) infinite; }
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+
+  </style>
+
+  <rect width="1000" height="272" rx="8" fill="#0D1117" stroke="#21262D"/>
+  <rect width="1000" height="34" rx="8" fill="#11161D"/>
+  <rect y="26" width="1000" height="8" fill="#11161D"/>
+  <line x1="0" y1="34" x2="1000" y2="34" stroke="#21262D"/>
+  <circle cx="22" cy="17" r="4" fill="#21262D"/>
+  <circle cx="38" cy="17" r="4" fill="#21262D"/>
+  <circle cx="54" cy="17" r="4" fill="#0047AB"/>
+  <text x="500.0" y="21" font-size="11" letter-spacing="3" fill="#7D8590" text-anchor="middle">sahan — zsh — 80×24</text>
+  <g clip-path="url(#c0)"><text x="40" y="78" font-size="15" fill="#E6EDF3"><tspan fill="#0047AB">$ </tspan>whoami</text></g><g clip-path="url(#c1)"><text x="40" y="102" font-size="15" fill="#4D8FFF"><tspan fill="#0047AB"></tspan>sahan@github</text></g><g clip-path="url(#c2)"><text x="40" y="126" font-size="15" fill="#E6EDF3"><tspan fill="#0047AB">$ </tspan>cat role.txt</text></g><g clip-path="url(#c3)"><text x="40" y="150" font-size="15" fill="#7D8590"><tspan fill="#0047AB"></tspan>Full-Stack Developer — I build the whole path, not just the screen.</text></g><g clip-path="url(#c4)"><text x="40" y="174" font-size="15" fill="#E6EDF3"><tspan fill="#0047AB">$ </tspan>stack --active</text></g><g clip-path="url(#c5)"><text x="40" y="198" font-size="15" fill="#4D8FFF"><tspan fill="#0047AB"></tspan>react · next · typescript · node · express · postgres · mongodb</text></g><g clip-path="url(#c6)"><text x="40" y="222" font-size="15" fill="#E6EDF3"><tspan fill="#0047AB">$ </tspan>status</text></g>
+  <g class="fade" style="animation-delay:5.6s">
+    <circle cx="47" cy="241" r="4" fill="#4D8FFF"/>
+    <text x="62" y="246" font-size="15" fill="#E6EDF3">BUILDING</text>
+    <rect class="caret" x="150" y="233" width="9" height="17" fill="#4D8FFF"/>
+  </g>
+
+</svg>

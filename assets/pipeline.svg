@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img">
+  <defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#161C24" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#4D8FFF" stop-opacity="0"/>
+    <stop offset="50%"  stop-color="#7FB2FF" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#4D8FFF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="edgeFade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#0D1117" stop-opacity="1"/>
+    <stop offset="12%"  stop-color="#0D1117" stop-opacity="0"/>
+    <stop offset="88%"  stop-color="#0D1117" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+  </linearGradient>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+
+    .node { opacity: 1; animation: pop .5s ease-out both; }
+    @keyframes pop { from { opacity:0; transform: translateY(8px) } to { opacity:1; transform:none } }
+    .lit { opacity: 0; animation: lit 4.2s ease-in-out infinite; }
+    @keyframes lit { 0%,6% { opacity:0 } 12% { opacity:1 } 26% { opacity:0 } 100% { opacity:0 } }
+    .pkt { animation: run 4.2s cubic-bezier(.55,0,.45,1) infinite; }
+    @keyframes run { 0% { transform: translateX(0); opacity:0 } 6% { opacity:1 }
+                      90% { opacity:1 } 100% { transform: translateX(928px); opacity:0 } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+
+  </style>
+
+  <rect width="1000" height="170" fill="#0D1117"/>
+  <text x="500.0" y="32" font-size="11" letter-spacing="5" fill="#7D8590" text-anchor="middle">REQUEST PATH</text>
+  
+  <g class="node" style="animation-delay:0.30s">
+    <rect x="32" y="48" width="168" height="60" rx="4" fill="#11161D" stroke="#21262D"/>
+    <rect class="lit" style="animation-delay:0.30s" x="32" y="48" width="168" height="60" rx="4"
+          fill="none" stroke="#4D8FFF" stroke-width="1.5"/>
+    <text x="116" y="76" font-size="13" letter-spacing="2" fill="#E6EDF3" text-anchor="middle">FRONTEND</text>
+    <text x="116" y="96" font-size="10" letter-spacing="2" fill="#7D8590" text-anchor="middle">01</text>
+  </g><line x1="204" y1="78" x2="220" y2="78" stroke="#21262D" stroke-width="1.5"/>
+  <g class="node" style="animation-delay:0.72s">
+    <rect x="224" y="48" width="168" height="60" rx="4" fill="#11161D" stroke="#21262D"/>
+    <rect class="lit" style="animation-delay:0.72s" x="224" y="48" width="168" height="60" rx="4"
+          fill="none" stroke="#4D8FFF" stroke-width="1.5"/>
+    <text x="308" y="76" font-size="13" letter-spacing="2" fill="#E6EDF3" text-anchor="middle">API LAYER</text>
+    <text x="308" y="96" font-size="10" letter-spacing="2" fill="#7D8590" text-anchor="middle">02</text>
+  </g><line x1="396" y1="78" x2="412" y2="78" stroke="#21262D" stroke-width="1.5"/>
+  <g class="node" style="animation-delay:1.14s">
+    <rect x="416" y="48" width="168" height="60" rx="4" fill="#11161D" stroke="#21262D"/>
+    <rect class="lit" style="animation-delay:1.14s" x="416" y="48" width="168" height="60" rx="4"
+          fill="none" stroke="#4D8FFF" stroke-width="1.5"/>
+    <text x="500" y="76" font-size="13" letter-spacing="2" fill="#E6EDF3" text-anchor="middle">DATABASE</text>
+    <text x="500" y="96" font-size="10" letter-spacing="2" fill="#7D8590" text-anchor="middle">03</text>
+  </g><line x1="588" y1="78" x2="604" y2="78" stroke="#21262D" stroke-width="1.5"/>
+  <g class="node" style="animation-delay:1.56s">
+    <rect x="608" y="48" width="168" height="60" rx="4" fill="#11161D" stroke="#21262D"/>
+    <rect class="lit" style="animation-delay:1.56s" x="608" y="48" width="168" height="60" rx="4"
+          fill="none" stroke="#4D8FFF" stroke-width="1.5"/>
+    <text x="692" y="76" font-size="13" letter-spacing="2" fill="#E6EDF3" text-anchor="middle">INTEGRATION</text>
+    <text x="692" y="96" font-size="10" letter-spacing="2" fill="#7D8590" text-anchor="middle">04</text>
+  </g><line x1="780" y1="78" x2="796" y2="78" stroke="#21262D" stroke-width="1.5"/>
+  <g class="node" style="animation-delay:1.98s">
+    <rect x="800" y="48" width="168" height="60" rx="4" fill="#11161D" stroke="#21262D"/>
+    <rect class="lit" style="animation-delay:1.98s" x="800" y="48" width="168" height="60" rx="4"
+          fill="none" stroke="#4D8FFF" stroke-width="1.5"/>
+    <text x="884" y="76" font-size="13" letter-spacing="2" fill="#E6EDF3" text-anchor="middle">PRODUCT</text>
+    <text x="884" y="96" font-size="10" letter-spacing="2" fill="#7D8590" text-anchor="middle">05</text>
+  </g>
+  <circle class="pkt" cx="32" cy="78" r="4" fill="#7FB2FF" filter="url(#soft)"/>
+  <text x="500.0" y="148" font-size="11" letter-spacing="3" fill="#7D8590" text-anchor="middle">ONE DEVELOPER · WHOLE PATH</text>
+
+</svg>
