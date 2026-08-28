@@ -1,10 +1,10 @@
 <div align="center">
 
-# Sahan Vimukthi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0047AB&height=220&section=header&text=Sahan%20Vimukthi&fontColor=FFFFFF&fontSize=46&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-### Full-Stack Developer · Software Engineer · Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=0047AB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Product;Building+products+%C2%B7+systems+%C2%B7+experiences)](https://git.io/typing-svg)
 
-I build software that connects the parts people see to the parts that make them work — interfaces, APIs, and the databases underneath, shipped as one working product.
+![Profile Views](https://komarev.com/ghpvc/?username=sahan2323&color=0047AB&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -69,6 +69,12 @@ I'd rather have a small stack I actually reach for than a long list of things I'
 ---
 
 ## Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,express,postgres,mongodb,tailwind,git,github,vscode,stripe&theme=dark)](https://skillicons.dev)
+
+</div>
 
 | Category | Stack |
 |---|---|
@@ -161,6 +167,15 @@ What I optimize for, in order: **maintainable code, clean architecture, good dat
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahan2323&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0047AB&text_color=c9d1d9)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=sahan2323&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+<div align="center">
+
+<!-- Snake animation — appears after the one-time GitHub Action setup below -->
+<img src="https://raw.githubusercontent.com/sahan2323/sahan2323/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+
 </div>
 
 ---
@@ -191,9 +206,10 @@ I'm not claiming years of professional depth I don't have — I'm building real 
 
 If you're working on a product, platform, startup, or technical idea, let's talk.
 
-**Portfolio:** `[add your portfolio URL]`
-**LinkedIn:** `[add your LinkedIn URL]`
-**Email:** `[add your email]`
+**LinkedIn:** [linkedin.com/in/sahan-vimukthi-hewa-gallage](https://www.linkedin.com/in/sahan-vimukthi-hewa-gallage-bb3a24239/)
+**Email:** [vimusahan23@gmail.com](mailto:vimusahan23@gmail.com)
 **GitHub:** [@sahan2323](https://github.com/sahan2323)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
