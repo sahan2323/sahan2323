@@ -97,7 +97,7 @@ What I optimize for, in order: **maintainable code, clean architecture, good dat
 
 **Focus:** Scroll-Driven Animation · Visual Storytelling · Component Architecture
 
-**Live:** [jayaka-cinnamon-web.vercel.app](https://jayaka-cinnamon-web.vercel.app) ·
+**Live:** [jayaka-cinnamon-web.vercel.app](https://jayakawebnew.vercel.app/) ·
 
 ---
 
