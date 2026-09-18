@@ -113,16 +113,6 @@ What I optimize for, in order: **maintainable code, clean architecture, good dat
 
 ---
 
-### `Project Name`
-
-> Short explanation of what the application does and the problem it solves.
-
-`Tech` `Tech` `Tech`
-
-**Focus:** Authentication · APIs · Database · Dashboard
-
-**Repository:** `[add repo link]` · **Live Demo:** `[add live link]`
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## GitHub Activity
