@@ -85,7 +85,7 @@ What I optimize for, in order: **maintainable code, clean architecture, good dat
 
 **Focus:** Frontend Architecture · Third-Party API Integration · Responsive Design · Animation
 
-**Live:** [maple-ceylon.com](https://maple-ceylon.com) · **Repository:** `[add repo link]`
+**Live:** [maple-ceylon.com](https://maple-ceylon.com) · 
 
 ---
 
@@ -97,7 +97,7 @@ What I optimize for, in order: **maintainable code, clean architecture, good dat
 
 **Focus:** Scroll-Driven Animation · Visual Storytelling · Component Architecture
 
-**Live:** [jayaka-cinnamon-web.vercel.app](https://jayaka-cinnamon-web.vercel.app) · **Repository:** `[add repo link]`
+**Live:** [jayaka-cinnamon-web.vercel.app](https://jayaka-cinnamon-web.vercel.app) ·
 
 ---
 
@@ -109,7 +109,7 @@ What I optimize for, in order: **maintainable code, clean architecture, good dat
 
 **Focus:** Full-Stack Migration · Authentication · Client Portal · API Design
 
-**Live:** [onecorelab.com](https://onecorelab.com) · **Repository:** `[add repo link]`
+**Live:** [onecorelab.com](https://onecorelab.com) · 
 
 ---
 
